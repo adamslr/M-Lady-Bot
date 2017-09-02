@@ -12,7 +12,7 @@
         "avatar": null
     }
 }
-var Bot = require('discord-bot');
+var Bot = require('M'LadyBot');
  
 var bot = new Bot({
     email: <email>,
